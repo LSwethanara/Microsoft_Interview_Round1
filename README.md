@@ -136,7 +136,7 @@ There are other ways to solve the same execise. But they are not the most optima
     - **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **{not the most optimal}**
    
 2. Not Great: Using Pointer: <br />
-     Use a Dummy node, that will hold the smaller value after comparing the values of the nodes that is pointed during iterating through both the list. This Dummy node      will be apended to the Output <br />
+     Use a Dummy node, that will hold the smaller value after comparing the values of the nodes that is pointed during iterating through both the list. This Dummy node      will be appended to the Output <br />
      
     - **Time Complexity:** O(N + M), where N and M are the lengths of the two lists<br />
     - **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **{not the most optimal}**
@@ -158,7 +158,7 @@ Or take a look at the code as mentioned in the section ['Code'](#code)<br />
 
 This was written entirely by the author: L.Swetha - the candidate for Microsoft Interview Round 1 for the 
 position: Developer Community Product Manager <br />
-Please feel free to contact me using the follwoing contact infomation<br />
+Please feel free to contact me using the following contact information<br />
 Email Id: klswethas@gmail.com<br />
 Phone Number: 9840318244<br />
 
