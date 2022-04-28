@@ -130,18 +130,18 @@ There are other ways to solve the same execise. But they are not the most optima
     In this method, a SortedMerge() function is written where the current node of both the lists are compared. The node with the smaller value is added to the Output       list. This function is recursively called to merge the remaining list. 
     
     **Time Complexity:** O(N + M), where N and M are the lengths of the two lists
-    **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **<not the most optimal>**
+    **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **{not the most optimal}**
    
 2. Not Great: Using Pointer: 
      Use a Dummy node, that will hold the smaller value after comparing the values of the nodes that is pointed during iterating through both the list. This Dummy node      will be apended to the Output 
      
     **Time Complexity:** O(N + M), where N and M are the lengths of the two lists
-    **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **<not the most optimal>**
+    **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **{not the most optimal}**
 
 3. Worst: Join the list and sort
       We can brute force the problem, by joining the lists and then sorting them. But this will have the worst time complexity 
      
-    **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **<not optimal at all>**
+    **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **{not optimal at all}**
     **Space Complexity:** O(1), insertion sort   
      
 ### Conclusion
