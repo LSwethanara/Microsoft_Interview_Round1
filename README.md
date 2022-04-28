@@ -128,7 +128,7 @@ Please feel free to use your own inputs as well. The code will work for any int 
 ### Alternative Methods
 <a name = '#alternative-methods'></a>
 
-There are other ways to solve the same execise. But they are not the most optimal ways. <br />
+There are other ways to solve the same exercise. But they are not the most optimal ways. <br />
 1. Second Best: Recursive In-Place Method: <br />
     In this method, a SortedMerge() function is written where the current node of both the lists are compared. The node with the smaller value is added to the Output       list. This function is recursively called to merge the remaining list. <br />
     
