@@ -4,7 +4,7 @@ Email: klswethas@gmail.com<br />
 Position: Developer Community Product Manager<br />
 HR in contact: Cecilia Maria Melany S <ceciliama@microsoft.com><br />**
 
-**Index: **
+Index: 
 1.  [Given Exercise Question](#given-exercise-question)
 2.  [Short Answer Explanation](#short-answer-explanation)
 3.  [Algorithm](#algorithm)
