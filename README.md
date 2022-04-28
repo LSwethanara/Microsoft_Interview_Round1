@@ -1,8 +1,8 @@
 **Microsoft Interview Round 1<br />
-Candidate Name: **L.Swetha** <br />
-Email: **klswethas@gmail.com**<br />
-Position: **Developer Community Product Manager**<br />
-HR in contact: **Cecilia Maria Melany S** <ceciliama@microsoft.com><br />**
+Candidate Name: L.Swetha <br />
+Email: klswethas@gmail.com<br />
+Position: Developer Community Product Manager<br />
+HR in contact: Cecilia Maria Melany S <ceciliama@microsoft.com><br />**
 
 **Index: **
 1.  [Given Exercise Question](#given-exercise-question)
