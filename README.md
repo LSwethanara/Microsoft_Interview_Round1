@@ -73,7 +73,7 @@ The user can directly go to the following link to execute the code:
 ### Code
 <a name = '#code'></a>
 The code is uploaded here in github as well: [main.py](https://github.com/LSwethanara/Microsoft_Interview_Round1/blob/main/main.py)
-
+Code was written in Python3
 
 
 ### Code Index
