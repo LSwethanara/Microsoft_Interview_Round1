@@ -14,7 +14,9 @@ Index:
 7.  [Code Index](#codeindex)
 8.  [TestCases](#testcases)
 9.  [Dry Run Screenshots](#dry-run-screenshots)
-10. [Alternative Methods][#alternatives]
+10. [Alternative Methods](#alternative-methods)
+11. [Conclusion](#conclusion)
+12. [Thank You Note](#thank-you-note)
 
 ### Given Exercise Question
 <a name = '#given-exercise-question'></a>
@@ -120,7 +122,30 @@ Please feel free to use your own inputs as well. The code will work for any int 
    ![TESTCASE3](https://user-images.githubusercontent.com/13202839/165771105-77ecbd8a-4cf4-423b-b4c4-9a7a4262aa3f.PNG)
 
 
+### Alternative Methods
+<a name = '#alternative-methods'></a>
 
-
-
+There are other ways to solve the same execise. But they are not the most optimal ways. 
+1. Second Best: Recursive In-Place Method: 
+    In this method, a SortedMerge() function is written where the current node of both the lists are compared. The node with the smaller value is added to the Output       list. This function is recursively called to merge the remaining list. 
+    
+    **Time Complexity:** O(N + M), where N and M are the lengths of the two lists
+    **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **<not the most optimal>**
    
+2. Not Great: Using Pointer: 
+     Use a Dummy node, that will hold the smaller value after comparing the values of the nodes that is pointed during iterating through both the list. This Dummy node      will be apended to the Output 
+     
+    **Time Complexity:** O(N + M), where N and M are the lengths of the two lists
+    **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **<not the most optimal>**
+
+3. Worst: Join the list and sort
+      We can brute force the problem, by joining the lists and then sorting them. But this will have the worst time complexity 
+     
+    **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **<not optimal at all>**
+    **Space Complexity:** O(1), insertion sort   
+     
+### Conclusion
+<a name = '#conclusion'></a>
+Thus we can conclude that In-Place Iterative Merging is the best way to Merge & Sort two sorted input lists since it has the least time & space complexity     
+     
+     
