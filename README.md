@@ -156,7 +156,8 @@ Thus we can conclude that In-Place Iterative Merging is the best way to Merge & 
 Thank you for taking the time to go through my work. Please use the [compiler](#online-compiler) to take a look at the code & run the code.<br />
 Or take a look at the code as mentioned in the section ['Code'](#code)<br />
 
-This was written entirely by the author: L.Swetha - the candidate for Microsoft Interview Round 1 for the position: Developer Community Product Manager <br />
+This was written entirely by the author: L.Swetha - the candidate for Microsoft Interview Round 1 for the 
+position: Developer Community Product Manager <br />
 Please feel free to contact me using the follwoing contact infomation<br />
 Email Id: klswethas@gmail.com<br />
 Phone Number: 9840318244<br />
