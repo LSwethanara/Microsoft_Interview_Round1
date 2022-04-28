@@ -9,7 +9,7 @@ Index:
 2.  [Short Answer Explanation](#short-answer-explanation)
 3.  [Algorithm](#algorithm)
 4.  [Time And Space Complexity](#time-and-space-complexity)
-5.  [Sharing Online Compiler to run](#online-compiler)
+5.  [Sharing Online Compiler to run](#online-compiler)/ [Click Here To Run Code](https://onlinegdb.com/4xgTAhYJo)
 6.  [Code](https://github.com/LSwethanara/Microsoft_Interview_Round1/blob/main/main.py)
 7.  [Code Index](#codeindex)
 8.  [TestCases](#testcases)
@@ -58,7 +58,7 @@ Overall this algotrithm is the **most optimal solution** keeping the time and sp
 <a name = '#online-compiler'></a>
 The user can directly go to the following link to execute the code: 
 [Click Here To Run the Code](https://onlinegdb.com/4xgTAhYJo)
-<script src="//onlinegdb.com/embed/js/4xgTAhYJo?theme=dark"></script>
+
 
 6. 
 
