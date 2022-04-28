@@ -109,6 +109,18 @@ Please feel free to use your own inputs as well. The code will work for any int 
 
 1. **TEST CASE 1(TC1)**: EXAMPLE LIST FROM QUESTION PROMPT 
    TC1_listA = 5->10->15; TC1_listB = 2->3->20
-   ![TESTCASE1](https://user-images.githubusercontent.com/13202839/165770502-995499f1-f0a9-459a-a7d8-b51586ed4730.PNG)
+   ![TESTCASE1](https://user-images.githubusercontent.com/13202839/165770961-3126026a-f3dd-46f6-b95a-c2b6630e15e9.PNG)
+
+2. **TEST CASE 2(TC2)**: LISTS WITH DUPLICATES 
+   TC2_listA = 5->10->15->20; TC2_listB = 2->5->20
+   ![TESTCASE2](https://user-images.githubusercontent.com/13202839/165771035-b0683e60-472d-42e5-83da-c1db276e5c7f.PNG)
+   
+3. **TEST CASE 3(TC3)**: UNSORTED INPUT LISTS THROWS ERROR (INVALID INPUT) 
+   TC3_listA = 10->5->15; TC3_listB = 2->5->20
+   ![TESTCASE3](https://user-images.githubusercontent.com/13202839/165771105-77ecbd8a-4cf4-423b-b4c4-9a7a4262aa3f.PNG)
+
+
+
+
 
    
