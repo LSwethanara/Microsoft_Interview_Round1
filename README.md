@@ -66,7 +66,7 @@ Overall this algotrithm is the **most optimal solution** keeping the time and sp
 ### Online Compiler
 <a name = '#online-compiler'></a>
 The user can directly go to the following link to execute the code: 
-[Click Here To Run the Code](https://onlinegdb.com/4xgTAhYJo)
+[Click Here To Run the Code](https://onlinegdb.com/JOwTqrbFj)
 
 
 
