@@ -23,7 +23,7 @@ Index:
 
 Merge and Sort two sorted linked lists using any language<br />
 Write a SortedMerge() function that takes two linked lists, each of which is sorted in increasing order, and merges the two together into one list which is in increasing order. SortedMerge() should return the new list. The new list should be made by splicing together the nodes of the first two lists.
-For example if the first linked list a is 5->10->15 and the other linked list b is 2->3->20, then SortedMerge() should return a pointer to the head node of the merged list 2->3->5->10->15->20.
+For example, if the first linked list a is 5->10->15 and the other linked list b is 2->3->20, then SortedMerge() should return a pointer to the head node of the merged list 2->3->5->10->15->20.
 
 
 
@@ -59,7 +59,7 @@ TDLR: We will iterate the head1 of the list to point to the lowest while travers
 **Time Complexity** for the [Code](https://github.com/LSwethanara/Microsoft_Interview_Round1/blob/main/main.py) is: **O(N + M)**, where N and M are the length of the two lists since it traverses through both the list to sort. <br />
 **Space Complexity** for the [Code](https://github.com/LSwethanara/Microsoft_Interview_Round1/blob/main/main.py) is: **O(1)**. That is it does not use any extra space. The code uses one of the given list(the one with the lowest first value) as its anchor and modifies the same list. This is the best and most optimal way save space. <br />
 
-Overall this algotrithm is the **most optimal solution** keeping the time and space complexity to the least. 
+Overall this algorithm is the **most optimal solution** keeping the time and space complexity to the least. 
 
 
 
@@ -80,7 +80,7 @@ The user can directly go to the following link to execute the code: <br />
 <a name = '#code-index'></a>
 The following code index is commented in the code as well. This is for readability. <br />
 The code has the following five parts <br />
-1. Time and Space Complexity - Why In-place interative merge is the best method
+1. Time and Space Complexity - Why In-place iterative merge is the best method
 2. Code Starts -> Define List Node
 3. List Operation Class
 4. SortedMerge Function using the Best method: in-place
