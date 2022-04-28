@@ -31,8 +31,8 @@ For example if the first linked list a is 5->10->15 and the other linked list b 
 <a name = '#short-answer-explanation'></a>
 Merging and sorting two sorted lists can be done in [many ways](#alternatives), but the most Optimal way is to use [**In-Place Iterative Merge**](#algorithm) as it optimizes both Time & Space Complexity
 
- - [Time Complexity](#complexity): O(N + M), where N and M are lengths of the input sorted lists
- - [Space Complexity](#complexity): O(1), does not take any extra space since it is sorted in place using the space of one of given list var 
+ - [Time Complexity](#complexity): O(N + M), where N and M are lengths of the input sorted lists<br />
+ - [Space Complexity](#complexity): O(1), does not take any extra space since it is sorted in place using the space of one of given list
 
 
 
