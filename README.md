@@ -94,13 +94,13 @@ The following are the suggested exhaustive testcases. <br />
 Please feel free to use your own inputs as well. The code will work for any int input given 
 
 1. **TEST CASE 1(TC1)**: EXAMPLE LIST FROM QUESTION PROMPT <br />
-   TC1_listA = 5->10->15; TC1_listB = 2->3->20
+   TC1_listA = 5->10->15;    TC1_listB = 2->3->20
 
 2. **TEST CASE 2(TC2)**: LISTS WITH DUPLICATES <br />
-   TC2_listA = 5->10->15->20; TC2_listB = 2->5->20
+   TC2_listA = 5->10->15->20;    TC2_listB = 2->5->20
 
 3. **TEST CASE 3(TC3)**: UNSORTED INPUT LISTS THROWS ERROR (INVALID INPUT) <br />
-   TC3_listA = 10->5->15; TC3_listB = 2->5->20
+   TC3_listA = 10->5->15;    TC3_listB = 2->5->20
 
 4. **YOUR INPUT**: Please feel free to test as you like. 
 
@@ -110,15 +110,18 @@ Please feel free to use your own inputs as well. The code will work for any int 
 <a name = '#dry-run-screenshots'></a>
 
 1. **TEST CASE 1(TC1)**: EXAMPLE LIST FROM QUESTION PROMPT <br />
-   TC1_listA = 5->10->15; TC1_listB = 2->3->20<br />
+   TC1_listA = 5->10->15;    TC1_listB = 2->3->20<br />
+   
    ![TESTCASE1](https://user-images.githubusercontent.com/13202839/165770961-3126026a-f3dd-46f6-b95a-c2b6630e15e9.PNG)
 
 2. **TEST CASE 2(TC2)**: LISTS WITH DUPLICATES<br /> 
-   TC2_listA = 5->10->15->20; TC2_listB = 2->5->20<br />
+   TC2_listA = 5->10->15->20;    TC2_listB = 2->5->20<br />
+   
    ![TESTCASE2](https://user-images.githubusercontent.com/13202839/165771035-b0683e60-472d-42e5-83da-c1db276e5c7f.PNG)
    
 3. **TEST CASE 3(TC3)**: UNSORTED INPUT LISTS THROWS ERROR (INVALID INPUT)<br /> 
-   TC3_listA = 10->5->15; TC3_listB = 2->5->20<br />
+   TC3_listA = 10->5->15;    TC3_listB = 2->5->20<br />
+   
    ![TESTCASE3](https://user-images.githubusercontent.com/13202839/165771105-77ecbd8a-4cf4-423b-b4c4-9a7a4262aa3f.PNG)
 
 
@@ -129,19 +132,19 @@ There are other ways to solve the same execise. But they are not the most optima
 1. Second Best: Recursive In-Place Method: <br />
     In this method, a SortedMerge() function is written where the current node of both the lists are compared. The node with the smaller value is added to the Output       list. This function is recursively called to merge the remaining list. <br />
     
-    - **Time Complexity:** O(N + M), where N and M are the lengths of the two lists
+    - **Time Complexity:** O(N + M), where N and M are the lengths of the two lists<br />
     - **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **{not the most optimal}**
    
 2. Not Great: Using Pointer: <br />
      Use a Dummy node, that will hold the smaller value after comparing the values of the nodes that is pointed during iterating through both the list. This Dummy node      will be apended to the Output <br />
      
-    - **Time Complexity:** O(N + M), where N and M are the lengths of the two lists
+    - **Time Complexity:** O(N + M), where N and M are the lengths of the two lists<br />
     - **Space Complexity:** O(N + M), where N and M are the lengths of the two lists **{not the most optimal}**
 
 3. Worst: Join the list and sort<br />
       We can brute force the problem, by joining the lists and then sorting them. But this will have the worst time complexity <br />
      
-    - **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **{not optimal at all}**
+    - **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **{not optimal at all}**<br />
     - **Space Complexity:** O(1), insertion sort   
      
 ### Conclusion
@@ -154,7 +157,7 @@ Thank you for taking the time to go through my work. Please use the [compiler](#
 Or take a look at the code as mentioned in the section ['Code'](#code)<br />
 
 This was written entirely by the author: L.Swetha - the candidate for Microsoft Interview Round 1 for the position: Developer Community Product Manager <br />
-Please feel free to contact me using the follwoing contact infomation
+Please feel free to contact me using the follwoing contact infomation<br />
 Email Id: klswethas@gmail.com<br />
 Phone Number: 9840318244<br />
 
