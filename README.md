@@ -5,8 +5,9 @@ Position: Developer Community Product Manager
 HR in contact: Cecilia Maria Melany S <ceciliama@microsoft.com>
 
 Index: 
+[Go to Real Cool Heading section](#real-cool-heading)
 1. [Given Exercise Question](question)
-#Real Cool Heading#
+#Real Cool Heading
 
 
 
