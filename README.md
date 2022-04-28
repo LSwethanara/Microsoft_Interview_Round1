@@ -141,7 +141,7 @@ There are other ways to solve the same execise. But they are not the most optima
 3. Worst: Join the list and sort
       We can brute force the problem, by joining the lists and then sorting them. But this will have the worst time complexity 
      
-    a. **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **{not optimal at all}**
+    a. **Time Complexity:** O((N + M)^2), where N and M are the lengths of the two lists since it combines and then sorts **{not optimal at all}**. 
     b. **Space Complexity:** O(1), insertion sort   
      
 ### Conclusion
