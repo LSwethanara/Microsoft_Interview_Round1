@@ -146,6 +146,14 @@ There are other ways to solve the same execise. But they are not the most optima
      
 ### Conclusion
 <a name = '#conclusion'></a>
-Thus we can conclude that In-Place Iterative Merging is the best way to Merge & Sort two sorted input lists since it has the least time & space complexity     
-     
-     
+Thus we can conclude that In-Place Iterative Merging is the best way to Merge & Sort two sorted input lists since it has the least time & space complexity  
+
+### Thank You Note
+<a name = '#thank-you-note'></a>
+Thank you for taking the time to go through my work. Please use the [compiler](#online-compiler) to take a look at the code & run the code.
+Or take a look at the code as mentioned in the section ['Code'](#code)
+
+This was written entirely by the author: L.Swetha - the candidate for the Mocrosoft Interview Round 1 for the position Developer Community Product Manager. 
+Please feel free to contact me using the follwoing : klswethas@gmail.com
+Phone Number: 9840318244
+
