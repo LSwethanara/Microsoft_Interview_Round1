@@ -1,10 +1,10 @@
-Microsoft Interview Round 1<br />
-Candidate Name: L.Swetha <br />
-Email: klswethas@gmail.com<br />
-Position: Developer Community Product Manager<br />
-HR in contact: Cecilia Maria Melany S <ceciliama@microsoft.com><br />
+**Microsoft Interview Round 1<br />
+Candidate Name: **L.Swetha** <br />
+Email: **klswethas@gmail.com**<br />
+Position: **Developer Community Product Manager**<br />
+HR in contact: **Cecilia Maria Melany S** <ceciliama@microsoft.com><br />**
 
-Index: 
+**Index: **
 1.  [Given Exercise Question](#given-exercise-question)
 2.  [Short Answer Explanation](#short-answer-explanation)
 3.  [Algorithm](#algorithm)
@@ -66,7 +66,7 @@ Overall this algotrithm is the **most optimal solution** keeping the time and sp
 ### Online Compiler
 <a name = '#online-compiler'></a>
 The user can directly go to the following link to execute the code: <br />
-[Click Here To Run the Code](https://onlinegdb.com/JOwTqrbFj)(https://onlinegdb.com/JOwTqrbFj)
+[Click Here To Run the Code](https://onlinegdb.com/JOwTqrbFj)
 
 
 
