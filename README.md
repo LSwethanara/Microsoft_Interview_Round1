@@ -106,3 +106,4 @@ Please feel free to use your own inputs as well. The code will work for any int 
 
 ### Dry Run Screenshots
 <a name = '#dry-run-screenshots'></a>
+![TESTCASE3](https://user-images.githubusercontent.com/13202839/165770192-cff2a739-8777-4160-90f2-d9e2890d6c3c.PNG)
