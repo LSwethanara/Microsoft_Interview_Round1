@@ -106,4 +106,9 @@ Please feel free to use your own inputs as well. The code will work for any int 
 
 ### Dry Run Screenshots
 <a name = '#dry-run-screenshots'></a>
-![TESTCASE3](https://user-images.githubusercontent.com/13202839/165770192-cff2a739-8777-4160-90f2-d9e2890d6c3c.PNG)
+
+1. **TEST CASE 1(TC1)**: EXAMPLE LIST FROM QUESTION PROMPT 
+   TC1_listA = 5->10->15; TC1_listB = 2->3->20
+   ![TESTCASE1](https://user-images.githubusercontent.com/13202839/165770502-995499f1-f0a9-459a-a7d8-b51586ed4730.PNG)
+
+   
