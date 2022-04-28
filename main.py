@@ -14,7 +14,7 @@
 ###### 1. Time and Space Complexity - Why In-place interative merge is the best method
 ###### 2. Code Starts -> Define List Node
 ###### 3. List Operation Class
-###### 4. SortedMerge Function using the Best method: in-place
+###### 4. SortedMerge Function using the Best method: In-Place Iterative
 ###### 5. TestCases for User Input with suggested TCs and any other input
 
 ###### 1. Time and Space Complexity - Why In-place interative merge is the best method
