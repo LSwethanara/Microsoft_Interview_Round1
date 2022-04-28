@@ -16,7 +16,7 @@ Index:
 9.  [Dry Run Screenshots](#dryrun)
 10. [Alternative Methods][#alternatives]
 
-### 1. Given Exercise Question:
+### Question
 <a name = '#question'></a>nnnn
 
 Merge and Sort two sorted linked lists using any language
