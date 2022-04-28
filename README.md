@@ -1,17 +1,17 @@
-Microsoft Interview Round 1
-Candidate Name: L.Swetha 
-Email: klswethas@gmail.com
-Position: Developer Community Product Manager
-HR in contact: Cecilia Maria Melany S <ceciliama@microsoft.com>
+Microsoft Interview Round 1<br />
+Candidate Name: L.Swetha <br />
+Email: klswethas@gmail.com<br />
+Position: Developer Community Product Manager<br />
+HR in contact: Cecilia Maria Melany S <ceciliama@microsoft.com><br />
 
 Index: 
 1.  [Given Exercise Question](#given-exercise-question)
 2.  [Short Answer Explanation](#short-answer-explanation)
 3.  [Algorithm](#algorithm)
 4.  [Time And Space Complexity](#time-and-space-complexity)
-5.  [Sharing Online Compiler to run](#online-compiler)/ [Click Here To Run Code](https://onlinegdb.com/4xgTAhYJo)
+5.  [Sharing Online Compiler to run](#online-compiler)/ [Click Here To Run Code](https://onlinegdb.com/JOwTqrbFj)
 6.  [Code](https://github.com/LSwethanara/Microsoft_Interview_Round1/blob/main/main.py)
-7.  [Code Index](#codeindex)
+7.  [Code Index](#code-index)
 8.  [TestCases](#testcases)
 9.  [Dry Run Screenshots](#dry-run-screenshots)
 10. [Alternative Methods](#alternative-methods)
